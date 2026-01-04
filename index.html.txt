@@ -21,6 +21,7 @@
         <h1>DEPOSAY</h1>
         <p>Akıllı Stok Yönetimi ve Ekip Sayım Uygulaması</p>
         <a href="Deposay_v1.apk" class="btn">📥 Android İndir (v1.0)</a>
+        <a href="https://github.com/forvanius/deposay-indir/releases/download/v1.0/Deposay_v1.apk" class="btn">📥 Android İndir (v1.0)</a>
         <div class="ver">by Emin Sabrioglu • 2026</div>
     </div>
 </body>
